@@ -1,0 +1,46 @@
+{
+    "users": {
+        "dcx123": {
+            "username": "dcx123",
+            "address": "X24",
+            "contact_info": "18881108907",
+            "email": "2021513338@sjtu.edu.cn",
+            "password": "123456",
+            "is_approved": true
+        },
+        "dcx456": {
+            "username": "dcx456",
+            "address": "X24",
+            "contact_info": "18881108907",
+            "email": "2021513338@sjtu.edu.cn",
+            "password": "456789",
+            "is_approved": true
+        },
+        "dcx789": {
+            "username": "dcx789",
+            "address": "D19",
+            "contact_info": "18881108907",
+            "email": "2021513338@sjtu.edu.cn",
+            "password": "789123",
+            "is_approved": false
+        }
+    },
+    "admins": {
+        "dcx": {
+            "username": "dcx",
+            "address": "",
+            "contact_info": "",
+            "email": "",
+            "password": "eva20216",
+            "is_approved": true
+        },
+        "xzl": {
+            "username": "xzl",
+            "address": "",
+            "contact_info": "",
+            "email": "",
+            "password": "000401",
+            "is_approved": false
+        }
+    }
+}

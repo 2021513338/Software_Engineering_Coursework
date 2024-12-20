@@ -1,0 +1,26 @@
+[
+    {
+        "name": "\u6709\u673a\u5316\u5b66",
+        "description": "\u7528\u6237\u540d\uff1adcx456",
+        "location": "X24",
+        "contact_phone": "18881108907",
+        "email": "2021513338@sjtu.edu.cn",
+        "category": "\u4e66\u7c4d",
+        "keys": [
+            "\u7ae0\u70e8",
+            "\u79d1\u5b66\u51fa\u7248\u793e"
+        ]
+    },
+    {
+        "name": "\u53f0\u706f",
+        "description": "\u7528\u6237\u540d\uff1adcx456",
+        "location": "X23",
+        "contact_phone": "18881108907",
+        "email": "2021513338@sjtu.edu.cn",
+        "category": "\u706f\u5177",
+        "keys": [
+            "30w",
+            "30cm"
+        ]
+    }
+]
