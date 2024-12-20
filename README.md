@@ -1,6 +1,8 @@
 # Item_Resurrection.py
 **物品复活final位于master分支中**
+
 **物品复活final位于master分支中**
+
 **概述**
 
 Item_Resurrection.py 是一个使用 Python 编写的物品管理系统，它使用 Tkinter 库创建图形用户界面（GUI）。该系统允许用户添加、删除、查找和显示物品信息。每个物品由名称、所有者和电话号码组成。
